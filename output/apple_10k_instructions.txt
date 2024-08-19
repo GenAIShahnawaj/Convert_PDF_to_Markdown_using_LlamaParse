@@ -1,0 +1,46 @@
+# Apple Inc. - Annual Report
+
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended September 25, 2021
+
+Commission File Number: 001-36743
+
+Apple Inc.
+
+California | 94-2404110
+
+One Apple Park Way
+
+Cupertino, California 95014
+
+Phone: (408) 996-1010
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+|Title of each class|Trading symbol(s)|Name of each exchange on which registered|
+|---|---|---|
+|Common Stock, $0.00001 par value per share|AAPL|The Nasdaq Stock Market LLC|
+|1.000% Notes due 2022|-|The Nasdaq Stock Market LLC|
+|1.375% Notes due 2024|-|The Nasdaq Stock Market LLC|
+|0.000% Notes due 2025|-|The Nasdaq Stock Market LLC|
+|0.875% Notes due 2025|-|The Nasdaq Stock Market LLC|
+|1.625% Notes due 2026|-|The Nasdaq Stock Market LLC|
+|2.000% Notes due 2027|-|The Nasdaq Stock Market LLC|
+|1.375% Notes due 2029|-|The Nasdaq Stock Market LLC|
+|3.050% Notes due 2029|-|The Nasdaq Stock Market LLC|
+|0.500% Notes due 2031|-|The Nasdaq Stock Market LLC|
+|3.600% Notes due 2042|-|The Nasdaq Stock Market LLC|
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Well-known seasoned issuer: Yes
+
+Required to file reports pursuant to Section 13 or Section 15(d) of the Act: No
